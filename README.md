@@ -2,7 +2,7 @@
 
 ## video conferencing virtual backgrounds
 
-<img src="01.PNG">
+<img src="01.png">
 
 <img src="02.PNG">
 
